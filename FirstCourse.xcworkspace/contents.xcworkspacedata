@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Lab6/Lab6.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Lab5/Lab5.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Lab4.1/Lab4.1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Lab4/Lab4.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Lab3/Lab3.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Lab2.1/Lab2.1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Lab2/Lab2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Lab1/Lab1.xcodeproj">
+   </FileRef>
+</Workspace>
